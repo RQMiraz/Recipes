@@ -1,0 +1,27 @@
+* {
+    font-family:"Lucida Handwriting","Courier New", sans-serif;
+    color: #04AA6D;
+    background-color: #D4F1F4;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h1 {
+    color: #00008B;
+    text-align: center;
+}
+
+h2,h3 {
+    color: #FCE205;
+}
+
+.home {
+    color: #05445E;
+}
+
+.f-text{
+    color:#116530;
+}
