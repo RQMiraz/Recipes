@@ -2,6 +2,9 @@
     font-family:"Lucida Handwriting","Courier New", sans-serif;
     color: #04AA6D;
     background-color: #D4F1F4;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 img {
@@ -12,6 +15,7 @@ img {
 h1 {
     color: #00008B;
     text-align: center;
+    margin: 20px;
 }
 
 h2,h3 {
@@ -23,5 +27,25 @@ h2,h3 {
 }
 
 .f-text{
-    color:#116530;
+    color:#0f1f15;
+    display: inline-block;
+    padding-top: 20px;
+    background-color: #63b1ba;
+}
+
+.main {
+    width:800px;
+    margin: 0 auto;
+    border: ;
+}
+
+.recipe {
+    display: block;
+    border: 2px solid black;
+    height: 100px;
+    width: 300px;
+    padding: 10px 20px;
+    margin: 10px auto;
+    background-color: #63b1ba;
+    text-align: center;
 }
